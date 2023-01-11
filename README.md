@@ -1,7 +1,8 @@
 # testing-fish549
 a repo for testing out some functionalities 
 
-#Hello
+# Hello
+
 This is a repo for testing some functions in  class
 
 Here are some reasons I like GitHub
